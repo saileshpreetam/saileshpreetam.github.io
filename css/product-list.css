@@ -1,0 +1,24 @@
+table td{
+    color: grey;
+
+}
+
+table td a{
+    color: grey!important;
+}
+
+table th{
+    vertical-align: top;
+    text-align: left;
+
+}
+
+.td-3
+  {
+    background-color: bisque;
+  }
+
+  .table-heading{
+      margin-top: 27px;
+      text-indent: 130px;
+  }

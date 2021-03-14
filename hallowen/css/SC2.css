@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+}
+
+img{
+    float: left;
+    margin-right: 33px;
+    
+}
+
+header h2{
+    color: orange;
+    font-size: 33px;
+    font-style: italic;
+    text-shadow:  2px 2px 5px orange;
+}
+
+span{
+    font-size: 57px;
+}
+
+a{
+    color: orange;
+}
